@@ -1,5 +1,4 @@
 # OnlineMarketPlace-SJSU-CMPE272
-Online Market place
 Online Project Marketplace is designed to bring developers and client in one platform. It helps them to interact. 
 Here clients can send their project requirements to administrator. Administrator collects these details and posts in web application, 
 where developers can view these projects and interested developers can select the project and post their quotations, approach and details 
